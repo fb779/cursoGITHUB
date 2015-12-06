@@ -1,0 +1,17 @@
+commit 5ac3455ef65866be4b214cdf06829ad94568cc00
+Author: Fabian Forero <fabianforero779@gmail.com>
+Date:   Sun Dec 6 16:25:07 2015 -0500
+
+    Agregamos parrafo de texto a la pagina
+
+commit 7f48a7d2bb3e1c63c23019e9a49428a047f06f84
+Author: Fabian Forero <fabianforero779@gmail.com>
+Date:   Sun Dec 6 16:18:10 2015 -0500
+
+    Agregamos el titulo de la pagina
+
+commit 7b61339f845ff8da1fab1e8249826f0a9b45a22b
+Author: Fabian Forero <fabianforero779@gmail.com>
+Date:   Sun Dec 6 16:15:41 2015 -0500
+
+    Creacion del index estructura basica
